@@ -7,15 +7,17 @@
 
 import random
 import string
+
 len(2)
 card_=random.randint(2,10)
-card_colour = ()
+card_colour_1= ("♣")
+print(card_colour_1)
 
-cards=string.ascii_letters()
-deck[]
-for suit in ["C","D","H","S"]:
-    for rank in ["A", "K", "Q", "J", "10", "9", "8", "7", "6", "5", "4", "3", "2"]:
-        deck appen
+# cards=string.ascii_letters()
+# deck[]
+# for suit in ["C","D","H","S"]:
+#     for rank in ["A", "K", "Q", "J", "10", "9", "8", "7", "6", "5", "4", "3", "2"]:
+#         deck appen
 
 random_card_with_numbers=random.randint(2,10)
 print(random_card_with_numbers)
